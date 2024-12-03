@@ -1,0 +1,213 @@
+@keyframes slide {
+    from {
+      transform: translateX(0);
+    }
+    to {
+      transform: translateX(-100%);
+    }
+  }
+  
+  .logos {
+    overflow: hidden;
+    background: #f4f9fd;
+    white-space: nowrap;
+    /* position: relative; */
+    margin-top: 4%;
+  }
+  
+  .logos:before,
+  .logos:after {
+    position: absolute;
+    top: 0;
+    width: 250px;
+    height: 100%;
+    z-index: 2;
+  }
+  
+  .logos:before {
+    left: 0;
+    background: linear-gradient(to left, rgba(255, 255, 255, 0), white);
+  }
+  
+  .logos:after {
+    right: 0;
+    background: linear-gradient(to right, rgba(255, 255, 255, 0), white);
+  }
+  
+  .logos:hover .logos-slide {
+    animation-play-state: paused;
+  }
+  
+  .logos-slide {
+    display: inline-block;
+    animation: 35s slide infinite linear;
+  }
+  
+  .logos-slide img {
+    height: 50px;
+    margin: 0px 10px;
+  }
+  /*logos2 slid*/
+  .logos2 {
+    overflow: hidden;
+    /* padding: 60px 0; */
+    background: #f4f9fd;
+    white-space: nowrap;
+    /* position: relative; */
+    margin-top: 4%;
+  }
+  
+  .logos2:before,
+  .logos2:after {
+    position: absolute;
+    top: 0;
+    width: 250px;
+    height: 100%;
+    z-index: 2;
+  }
+  
+  .logos2:before {
+    left: 0;
+    background: linear-gradient(to left, rgba(255, 255, 255, 0), white);
+  }
+  
+  .logos2:after {
+    right: 0;
+    background: linear-gradient(to right, rgba(255, 255, 255, 0), white);
+  }
+  
+  .logos2:hover .logos-slide {
+    animation-play-state: paused;
+  }
+  
+  .logos2-slide {
+    display: inline-block;
+    animation: 35s slide infinite linear;
+  }
+  
+  .logos2-slide img {
+    height: 50px;
+    margin: 0 10px;
+  }
+ /*  slide3 */
+ .logos3 {
+  overflow: hidden;
+  /* padding: 60px 0; */
+  background: #f4f9fd;
+  white-space: nowrap;
+  /* position: relative; */
+  margin-top: 4%;
+  }
+  
+  .logos3:before,
+  .logos3:after {
+    position: absolute;
+    top: 0;
+    width: 250px;
+    height: 100%;
+    z-index: 2;
+  }
+  
+  .logos3:before {
+    left: 0;
+    background: linear-gradient(to left, rgba(255, 255, 255, 0), white);
+  }
+  
+  .logos3:after {
+    right: 0;
+    background: linear-gradient(to right, rgba(255, 255, 255, 0), white);
+  }
+  
+  .logos3:hover .logos-slide {
+    animation-play-state: paused;
+  }
+  
+  .logos3-slide {
+    display: inline-block;
+    animation: 35s slide infinite linear;
+  }
+  
+  .logos3-slide img {
+    height: 50px;
+    margin: 0 10px;
+  }
+  .sponsor{
+    height: 415px;
+    background-color: #f4f9fd;
+    padding: 1% 0% 0% 0%;
+    margin-top: 2%;
+}
+.sponsor .title{
+    color: #09175c;
+    FONT-SIZE: 29px;
+    font-weight: 600;
+}
+.assoline{
+    height: 6px;
+    border: none;
+    background-color: #C7175F;
+    width: 5%;
+    margin: 12px auto;
+    opacity: 1;
+}
+
+
+
+.title2{
+    display: flex;
+    justify-content: center;
+    font-size: 35px;
+    color: #09175c;
+    margin-top: 5%;
+    font-weight: 600;
+    
+}
+.Institutionsline{
+    height: 6px;
+    border: none;
+    background-color: #C7175F;
+    width: 5%;
+    margin: 12px auto;
+    opacity: 1;
+
+}
+.title3{
+    display: flex;
+    justify-content: center;
+    font-size: 35px;
+    color: #09175c;
+    margin-top: 4%;
+    text-align: center;
+    font-weight: 600;
+
+}
+.uniline{
+    height: 6px;
+    border: none;
+    background-color: #C7175F;
+    width: 5%;
+    margin: 12px auto;
+    opacity: 1;
+}
+.logos-slide img{
+  height: 95px;
+  padding: 12px;
+  border-radius: 10px;
+  /* border: 1Px solid; */
+  background-color: white;
+}
+.logos2-slide img{
+  height: 95px;
+  padding: 12px;
+  border-radius: 10px;
+  /* border: 1Px solid; */
+  background-color: white;
+}
+.logos3-slide img{
+  height: 95px;
+  padding: 12px;
+  border-radius: 10px;
+  /* border: 1Px solid; */
+  background-color: white;
+}
+  

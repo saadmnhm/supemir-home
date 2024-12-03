@@ -1,0 +1,330 @@
+@media screen and (min-width: 1024px) and (max-width: 1366px) {
+   
+
+
+ }
+
+@media only screen and (max-width: 700px) {
+
+}
+@media only screen and (max-width: 991px){
+    #head-page{
+        display: none;
+    }
+    .header{
+        width: 100%;
+        height: 7%;
+    }
+    .secondhead{
+        min-height: 390px;
+
+    }
+    .first-subtitle{
+        font-size: 20px;
+        width: 58% !important;
+        margin-top: -65%
+
+    }
+    #contact{
+        border-radius: 100Px;
+        margin-top: 38%;
+    }
+
+    .second-subtitle{
+        height: 82px;
+        font-size: 23px;
+        margin-top: -10%;
+    }
+    .text-et-searchbar{
+        margin-left: 0% !important;
+        margin-top: 70% !important;
+    
+    }
+    .search{
+    width: 100%;
+    margin-top: -35%;
+    height: 61px;
+    }
+    .nav{
+        display:  block !important;
+    }
+    .nav img{
+        width: 160px;
+        margin-top: 10px;
+        display: block;
+    }
+    #text-nosformations {
+        margin-left: 18%;
+    }
+    #flex-container {
+        gap: 0px !important; 
+    }
+    #flex-box {
+        height: auto;
+        width: 80%;
+    }
+    .avis-supmir .text {
+        margin-left: 15%;
+        width: 310px;
+    }
+    #imageslid{
+        display: none;
+    }
+    .bg-active{
+        width: 100px;
+    }
+    .nav-tabs{
+        width: 80%;
+        margin-left: 0px;
+    }
+    #flex-container-aventage {
+        width: 80%;
+        margin-left: 32px;
+        margin-top: -85%;
+    }
+    #flex-box-aventage{
+        margin-top: 25px !important;
+        margin-left: 30PX;
+        width: 80%;
+        height: 290px;
+    }
+    .owl-dots{
+        display: none;
+    }
+    #fontsizemedia-partner{
+        font-size: 19px !important;
+        margin-top: 70PX;
+
+    }
+    .last-article{
+        margin-top: 33px !important;
+    }
+
+    .row-resume{
+        width: 107%;
+    }
+    .button-resume{
+        margin-top: 99px !important;
+        margin-left: 18px;
+    }
+    .vector{
+        display: none;
+    }
+    .row-resume{
+        margin-left: -5px;
+
+    }
+    #right-resume{
+        margin-top: 0px;
+    
+    }
+    #left-resume {
+        width: 26rem;
+        border-radius: 0Px 0px 0px 0px;
+    }
+    #right-resume img {
+        width: 26Rem;
+        border-radius: 0px 0px 0px 0px;
+        height: auto;
+    }
+    .sponsor{
+        margin-top: 0% !important;
+    }
+    #text-box{
+        margin-top: -90%;
+    }
+    .article-recommend{
+        margin-left: 6PX !important;
+        width: 89%;
+        margin-top: 150px;
+    }
+    .wrapper i:first-child {
+        left: 0px !important;
+        margin-left: 1px;
+    }
+    .wrapper i:last-child {
+        right: 0px !important;
+    }
+    .image img {
+        height: auto;
+    }
+    #flex-box .text-box {
+        margin-top: 91px;
+    }
+    #flex-box-aventage img {
+        margin-left: 40%;
+    }
+    .articleline {
+        margin: 12px 0 0 -13px;
+    }
+    #title-articles {
+        margin-left: 36%;
+    }
+    .tabsindicators {
+        display: none;
+    }
+    .text-tab-text {
+        margin-left: 22px;
+    }
+    .image-last-article {
+        margin-left: 0%;
+        width: 100% !important;
+        margin-top: 4PX !important;
+
+    }
+    .top-left{
+        margin-left: -26%;
+    }
+    .top-left h3{
+        margin-left: 110px;
+    }
+    .top-right-button{
+        margin-top: -5%;
+    }
+    .text-behind-article .title h5 {
+        text-align: center;
+        font-size: 15px;
+        width: 330px;
+    }
+    .text-behind-article .text {
+        font-size: 13px;
+        color: #636664;    
+        margin-top: 0px;
+        width: 400px;
+        margin-left: -8%;
+    }
+    .text-behind-article .title {
+        margin-top: 20Px;
+    }
+    .lire-plus{
+        display: none;
+    }
+    .input-info{
+        width: 100% !important;
+        margin-left: -14Px !important;
+        float: none !important;
+
+    }
+    .envoyer-button{
+        margin-left: -20px;
+    }
+    .input-info-container {
+        margin-left: 12px;
+    }
+    .general-input{
+        margin-top: -135% !important;
+    }
+    #image-behind img{
+        display: none;
+    }
+    #contact-text {
+        margin-top: 0%;
+    }
+    #contact-text p {
+        font-size: 22px;
+    }
+    .email-contact {
+        margin-left: 0%
+    }
+    .text-presentation-box{
+        display: none;
+    }
+    #bg-bleu{
+        border: 1px solid;
+        width: 35rem;
+        background-color: #09175C;
+        border-radius: 100px 0 0 0;
+        height: 21rem;
+    }
+    #image-behind {
+        width: 88%;
+        margin-top: 11%;
+        margin-left: -13%;
+    }
+    
+    .appelez{
+        width: 70% !important;
+        border: none;
+        margin-left: 65px !important;
+    }
+    .footer{
+        margin-top: 220Px;
+    }
+    .footer .email{
+        height: 237px;
+        border-right: none;
+        margin-left: 26px;
+        width: 100%;
+        margin-top: 7%;
+    }
+    .footer  .email .text-email{
+        margin-top: 15px;
+        margin-left: 108px !important;
+    }
+    .footer .logo-email img{
+        margin-left: 135px !important;
+    }
+
+    .footer .visit{
+        border-right: none;
+        height: 237px;
+        margin-left: 3%;
+        width: 100%;
+        margin-top: 7%;
+    }
+    .footer .visit .text{
+        margin-left: 115PX;
+        font-size: 14px;
+    }
+    .footer .visit img{
+    margin-left: 150px !important;
+    }
+    .footer .visit .text p{
+        margin-left: 26px !important;
+    }
+    .adresse-visit p{
+        margin-left:30px !important;
+    }
+    .footer .nos-formation{
+        height: 237px;
+        margin-left: 1%;
+        width: 100%;
+        margin-top: 7%;
+    }
+    .footer .nos-formation .text{
+        margin-left: 140px;
+
+    }
+    .copyright {
+        margin-left: 28%;
+    }
+    #comment p{
+        font-size: 13px;
+    }
+    .aventage-supemir{
+        margin-top: 165%;
+    }
+    .flex-avis-container .flex-box {
+        width: 70%;
+        margin: 0px;
+    }
+    #comment {
+        width: 145px;
+    }
+    .text-tab {
+        margin-left: 27%;
+    }
+    .inscription_fixed{
+        display: none;
+    }
+    .reseaux_sociaux{
+        display: none;
+    }
+    .row{
+        margin-right: 0px !important;
+    }
+
+
+    
+
+}
